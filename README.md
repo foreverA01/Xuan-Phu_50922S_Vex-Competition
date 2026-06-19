@@ -2,6 +2,7 @@
 Push Back Season:
 --> Robot 2 Matchloader Simulation: https://a360.co/4uMkaPp
 --> Drivetrain spacing: https://a360.co/4t3tzBb
+*Full robot CAD were not designed by me, I only design the drivetrain and matchloader
 
 Highstakes Season:
 --> Onshape CAD (makeshift for documentation): 
